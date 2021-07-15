@@ -1,2 +1,2 @@
 # DDandMoreD
-"Dungeons, Dungeons, and More Dungeons": A command prompt/console-based roguelike RPG game
+"Dungeons, Dungeons, and More Dungeons": A console-based roguelike RPG game
