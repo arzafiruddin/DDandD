@@ -1,0 +1,10 @@
+Cactuar
+Inquisitor
+Golem
+Stalfos
+Moblin
+Daedra
+Nergigante
+Undead
+Manticore
+Seltas
