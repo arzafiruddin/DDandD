@@ -19,7 +19,7 @@ Version 0.4
 
 ## How To Play
 #### Movement
-|  Q  |  W  |  E  |
+|  _  |  W  |  _  |
 |-----|-----|-----|
 
 |  A  |  S  |  D  |
