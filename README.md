@@ -21,7 +21,7 @@ Version 0.4
 ## How To Play
 ### Goal
 
-Your goal is to survive as long as you can by reaching the exit of each area so you can progress to the next area. Use weapon chests and skill upgrades to help strengthen your character and fend off more difficult enemies who may stand in your way.
+Your goal is to survive as long as you can by reaching the exit of each area so you can progress to the next area. Use weapon chests and skill upgrades to help strengthen your character and fend off increasingly difficult enemies who may stand in your way.
 
 ### Movement
 
