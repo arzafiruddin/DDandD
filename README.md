@@ -25,6 +25,7 @@ Version 0.4
 |     |  W  |     |
 |     |     |     |
 |  A  |  S  |  D  |
+Use the W, A, S, and D keys
 
 |        |
 |:------:|
