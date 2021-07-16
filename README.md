@@ -7,7 +7,7 @@ Version 0.4
 ---
 
 ## Features
-- Unlimited unique randomly-generated dungeons and maps
+- Unlimited unique randomly-generated maps filled with enemies, chests, and skills
 - Fog-filled maps which clear out as you explore
 - Customizable enemy and weapon varieties
 - 3 uniques environments:
