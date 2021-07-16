@@ -14,7 +14,7 @@ Version 0.4
 - Customizable enemy and weapon varieties
 - 3 uniques environments:
 
-<img src="https://github.com/arzafiruddin/DDandMoreD/blob/c973595ed970a295cad71cd7e941f0d1f37e4478/readme_assets/cavegengif.gif"> &nbsp <img src="https://github.com/arzafiruddin/DDandMoreD/blob/c973595ed970a295cad71cd7e941f0d1f37e4478/readme_assets/snowgengif.gif"> <img src="https://github.com/arzafiruddin/DDandMoreD/blob/c973595ed970a295cad71cd7e941f0d1f37e4478/readme_assets/matrixgengif.gif">
+<img src="https://github.com/arzafiruddin/DDandMoreD/blob/c973595ed970a295cad71cd7e941f0d1f37e4478/readme_assets/cavegengif.gif"> &nbsp; <img src="https://github.com/arzafiruddin/DDandMoreD/blob/c973595ed970a295cad71cd7e941f0d1f37e4478/readme_assets/snowgengif.gif"> <img src="https://github.com/arzafiruddin/DDandMoreD/blob/c973595ed970a295cad71cd7e941f0d1f37e4478/readme_assets/matrixgengif.gif">
 
 
 ## How To Play
