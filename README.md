@@ -9,7 +9,8 @@ Version 0.4
 ## Features
 - Unlimited unique randomly-generated maps filled with enemies to kill, chests to discover, and skills to collect
 - Fog-filled maps which clear out as you explore
-- Customizable enemy and weapon varieties
+- Player customizable enemy and weapon varieties
+- Scaling enemy diffiulty and weapon strength as player progresses
 - Top of the line ASCII-based console graphics, utilizing a whole 5 different shades of gray
 - 3 uniques environments:
 
@@ -18,6 +19,10 @@ Version 0.4
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Caverns &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Snow Fields &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Matrix
 
 ## How To Play
+### Goal
+
+Your goal is to survive as long as you can by reaching the exit of each area so you can progress to the next area. Use weapon chests and skill upgrades to help strengthen your character and fend off more difficult enemies who may stand in your way.
+
 ### Movement
 
 |     |     |     |       |         |
@@ -43,4 +48,4 @@ In order to interact with these, simply walk into the icon on the map screen. In
 
 ### Quit
 
-If the journey ahead is too daunting (or you simply need to quit the program), click the [ Q ] key during on the map screen.
+If the journey ahead is too daunting (or you simply need to quit the program), click the [ Q ] key followed by the [ ENTER ] key on the map screen.
