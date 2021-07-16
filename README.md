@@ -4,6 +4,4 @@
 
 Created by: Ameen Rasheed Zafiruddin
 
-<img src="https://github.com/arzafiruddin/DDandMoreD/blob/221033faf4110f1a7e750cc59bf40fba888956e3/readme_assets/cavedemogif.gif">
-
-A console-based roguelike RPG game
+<img src="https://github.com/arzafiruddin/DDandMoreD/blob/221033faf4110f1a7e750cc59bf40fba888956e3/readme_assets/cavedemogif.gif"> A console-based roguelike RPG game
