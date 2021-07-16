@@ -13,7 +13,7 @@ Version 0.4
 - Fog-filled maps which clear out as you explore
 - Customizable enemy and weapon varieties
 - 3 uniques environments:
-
+<img src="https://github.com/arzafiruddin/DDandMoreD/blob/c973595ed970a295cad71cd7e941f0d1f37e4478/readme_assets/cavegengif.gif" width="130" height"130"> <img src="https://github.com/arzafiruddin/DDandMoreD/blob/c973595ed970a295cad71cd7e941f0d1f37e4478/readme_assets/snowgengif.gif" width="130" height"130"> <img src="https://github.com/arzafiruddin/DDandMoreD/blob/c973595ed970a295cad71cd7e941f0d1f37e4478/readme_assets/matrixgengif.gif" width="130" height"130">
 
 
 ## How To Play
