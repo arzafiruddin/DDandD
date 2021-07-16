@@ -18,7 +18,7 @@ Version 0.4
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Caverns &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Snow Fields &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Matrix
 
 ## How To Play
-#### Movement
+### Movement
 
 |     |     |     |       |         |
 |:---:|:---:|:---:|:-----:|:-------:|
@@ -28,7 +28,7 @@ Version 0.4
 
 In order to move around, use the [W], [A], [S], and [D] keys followed by the [Enter] key.
 
-#### Interactions and Encounters
+### Interactions and Encounters
 
 As you play, you'll encounter various things you can interact with, such as:
 
@@ -41,6 +41,6 @@ As you play, you'll encounter various things you can interact with, such as:
 
 In order to interact with these, simply walk into the icon on the map screen. In order to take action during an in-game scene, use the [1], [2], [3], and [E] keys are prompted in the game.
 
-#### Quit
+### Quit
 
 If the journey ahead is too daunting (or simply you need to quit the program), click the [Q] key during on the map screen.
