@@ -7,7 +7,7 @@
 Version 0.4
 
 ## Features
-- Unlimited unique randomly-generated maps filled with enemies to kill, chests to discover, and skills to collect
+- Unlimited unique procedurally-generated maps filled with enemies to kill, chests to discover, and skills to collect
 - Fog-filled maps which clear out as you explore
 - Player customizable enemy and weapon varieties
 - Scaling enemy diffiulty and weapon strength as player progresses
