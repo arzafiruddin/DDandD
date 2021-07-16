@@ -34,7 +34,7 @@ As you play, you'll encounter various things you can interact with, such as:
 
 | Icon | Description   |
 |:----:|---------------|
-| [  ] | Weapons Chest |
+| [&nbsp;] | Weapons Chest |
 |  ¶¶  | Enemy         |
 |  ╠╣  | Skill Upgrade |
 |  <>  | Exit          |
