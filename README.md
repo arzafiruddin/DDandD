@@ -32,12 +32,12 @@ In order to move around, use the [ W ], [ A ], [ S ], and [ D ] keys followed by
 
 As you play, you'll encounter various things you can interact with, such as:
 
-| Icon | Description   |
-|:----:|---------------|
+| Icon           | Description   |
+|:--------------:|---------------|
 | [&nbsp;&nbsp;] | Weapons Chest |
-|  ¶¶  | Enemy         |
-|  ╠╣  | Skill Upgrade |
-|  <>  | Exit          |
+|  ¶¶            | Enemy         |
+|  ╠╣            | Skill Upgrade |
+|  <>            | Exit          |
 
 In order to interact with these, simply walk into the icon on the map screen. In order to take action during an in-game scene, use the [ 1 ], [ 2 ], [ 3 ], and [ E ] keys are prompted in the game.
 
