@@ -10,7 +10,7 @@ Version 0.4
 - Unlimited unique randomly-generated maps filled with enemies to kill, chests to discover, and skills to collect
 - Fog-filled maps which clear out as you explore
 - Customizable enemy and weapon varieties
-- Top of the line ASCII-based console graphics
+- Top of the line ASCII-based console graphics, utilizing a whole 5 DIFFERENT TONES of gray
 - 3 uniques environments:
 
 <img src="https://github.com/arzafiruddin/DDandMoreD/blob/c973595ed970a295cad71cd7e941f0d1f37e4478/readme_assets/cavegengif.gif"> &nbsp;&nbsp; <img src="https://github.com/arzafiruddin/DDandMoreD/blob/c973595ed970a295cad71cd7e941f0d1f37e4478/readme_assets/snowgengif.gif"> &nbsp;&nbsp; <img src="https://github.com/arzafiruddin/DDandMoreD/blob/c973595ed970a295cad71cd7e941f0d1f37e4478/readme_assets/matrixgengif.gif">
