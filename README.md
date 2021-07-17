@@ -44,11 +44,18 @@ As you play, you'll encounter various things you can interact with, such as:
 |  ╠╣            | Skill Upgrade |
 |  <>            | Exit          |
 
-In order to interact with these, simply walk into the icon on the map screen. In order to take action during an in-game scene, use the [ 1 ], [ 2 ], [ 3 ], and [ E ] keys are prompted in the game.
+In order to interact with these, simply walk into the icon on the map screen. In order to take action during an in-game scene, use the [ 1 ], [ 2 ], [ 3 ], and [ E ] keys as prompted in the game.
+
+### Combat
+
+There are 3 options during an enemy encounter: [ 1 ] Attack, [ 2 ] Magic, or [ 3 ] Flee.
+[ 1 ] Attack --> Enemy loses an amount of HP equal to the attack power of the player's weapon and skill (damage can increase +1 with each Attack skill upgrade or a new weapon)
+[ 2 ] Magic --> A random chance that the enemy will lose HP equal to the magic power of the player or no damage at all (damage can increase +2 with each Magic skill upgrade)
+[ 3 ] Flee --> Player leaves enemy encounter, but the enemy remains on the map
 
 ### Quit
 
-If the journey ahead is too daunting (or you simply need to quit the program), click the [ Q ] key followed by the [ ENTER ] key on the map screen.
+If the journey ahead is too daunting, click the [ Q ] key followed by the [ ENTER ] key on the map screen to quit.
 
 ## Additional Information
 ### Downloading and Running
@@ -62,4 +69,8 @@ If the journey ahead is too daunting (or you simply need to quit the program), c
 
 ### Customizing Enemy and Weapon Varieties
 
-"Dungeons, Dungeons, and More Dungeons" supports the ability for the pool of possible weapons and enemies to be customized by the player. Simply open the `Enemies.txt` and `Weapons.txt` files and add as many new enemies and weapons you'd like, or completely overhaul the preset options. The only stipulation is that **every seperate enemy and weapons must be on their own, separate line**.
+"Dungeons, Dungeons, and More Dungeons" supports the ability for the pool of possible weapons and enemies to be customized by the player. Simply open the `Enemies.txt` and `Weapons.txt` files and add as many new enemies and weapons you'd like, or completely overhaul the preset options. The only stipulation is that **every seperate enemy and weapons must be on their own, separate line** in the .txt files.
+
+### Known Bugs
+- On occasion, skills obtained in a previous level will not transfer over to the next level
+- A mis-input for the skills selection prompt will send the player back to the map screen without a skill upgrade
