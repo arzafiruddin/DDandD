@@ -53,9 +53,7 @@ There are 3 options during an enemy encounter:
 |   Option   | Description                                                                                                                                                   |
 |:----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[ 1 ] Attack| Enemy loses an amount of HP equal to the attack power of the player's weapon and skill (damage can increase +1 with each Attack skill upgrade or a new weapon)|
-|            |                                                                                                                                                               |
 |[ 2 ] Magic | A random chance that the enemy will lose HP equal to the magic power of the player or no damage at all (damage can increase +2 with each Magic skill upgrade) |
-|            |                                                                                                                                                               |
 |[ 3 ] Flee  | Player leaves enemy encounter, but the enemy remains on the map                                                                                               |
 
 ### Quit
