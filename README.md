@@ -50,7 +50,7 @@ In order to interact with these, simply walk into the icon on the map screen. In
 
 If the journey ahead is too daunting (or you simply need to quit the program), click the [ Q ] key followed by the [ ENTER ] key on the map screen.
 
-## Technical Information
+## Additional Information
 ### Downloading and Running
 
 "Dungeons, Dungeons, and More Dungeons" can run on any environment or IDE with Java support in the command prompt, terminal, or console. Simply do the following:
@@ -58,4 +58,8 @@ If the journey ahead is too daunting (or you simply need to quit the program), c
 2) Open the command prompt, terminal, or console of your respective environment
 3) Navigate to the directory containing all the *DDandD* files in the command prompt, terminal, or console
 4) Run the `DDandD_Runner` program by entering `java DDandD_Runner` into the command prompt, terminal, or console
-> "Dungeons, Dungeons, and More Dungeons" is best experienced with a command prompt, terminal, or console that have multi-line output support. Otherwise, you'll have to wait for each line of the updated map screen to print one at a time.
+> NOTE: "Dungeons, Dungeons, and More Dungeons" is best experienced with a command prompt, terminal, or console that has **multi-line output** support. While single-line output still functions fine, the overall experience is not as snappy or seamless.
+
+### Customizing Enemy and Weapon Varieties
+
+"Dungeons, Dungeons, and More Dungeons" supports the ability for the pool of possible weapons and enemies to be customized by the player. Simply open the `Enemies.txt` and `Weapons.txt` files and add as many new enemies and weapons you'd like, or completely overhaul the preset options. The only stipulation is that **every seperate enemy and weapons must be on their own, separate line**.
