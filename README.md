@@ -67,6 +67,7 @@ If the journey ahead is too daunting, click the [ Q ] key followed by the [ ENTE
 3) Navigate to the directory containing all the *DDandD* files in the command prompt, terminal, or console
 4) Run the `DDandD_Runner` program by entering `java DDandD_Runner` into the command prompt, terminal, or console
 > NOTE: "Dungeons, Dungeons, and More Dungeons" is best experienced with a command prompt, terminal, or console that has **multi-line output** support. While single-line output still functions fine, the overall experience is not as snappy or seamless.
+> NOTE: Command prompt, terminal, or console **must support the Extended ASCII** character set for proper graphical experience.
 
 ### Customizing Enemy and Weapon Varieties
 
