@@ -75,7 +75,7 @@ If the journey ahead is too daunting, click the [ Q ] key followed by the [ ENTE
 "Dungeons, Dungeons, and More Dungeons" supports the ability for the pool of possible weapons and enemies to be customized by the player. Simply open the `Enemies.txt` and `Weapons.txt` files and add as many new enemies and weapons you'd like, or completely overhaul the preset options. The only stipulation is that **every seperate enemy and weapons must be on their own, separate line** in the .txt files.
 
 ### Dependencies
-- *None*
+- None
 
 ### Known Bugs
 - On occasion, skills obtained in a previous level will not transfer over to the next level
