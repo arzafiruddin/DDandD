@@ -53,8 +53,9 @@ If the journey ahead is too daunting (or you simply need to quit the program), c
 ## Technical Information
 ### Downloading and Running
 
-"Dungeons, Dungeons, and More Dungeons" can run on any environment or IDE with Java support and command prompt, terminal, or console. Simply do the following:
+"Dungeons, Dungeons, and More Dungeons" can run on any environment or IDE with Java support in the command prompt, terminal, or console. Simply do the following:
 1) Download all the files (including all .java, .class, and .txt files) from the root of the *DDandD* GitHub repository (`readme_assets` folder is not necessary) 
 2) Open the command prompt, terminal, or console of your respective environment
-3) Navigate to the directory containing all the "Dungeons, Dungeons, and More Dungeons" files in the command prompt, terminal, or console
+3) Navigate to the directory containing all the *DDandD* files in the command prompt, terminal, or console
 4) Run the `DDandD_Runner` program by entering `java DDandD_Runner` into the command prompt, terminal, or console
+> "Dungeons, Dungeons, and More Dungeons" is best experienced with a command prompt, terminal, or console that have multi-line output support. Otherwise, you'll have to wait for each line of the updated map screen to print one at a time.
