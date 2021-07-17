@@ -57,4 +57,4 @@ If the journey ahead is too daunting (or you simply need to quit the program), c
 1) Download all the files (including all .java, .class, and .txt files) from the root of the *DDandD* GitHub repository (`readme_assets` folder is not necessary) 
 2) Open the command prompt, terminal, or console of your respective environment
 3) Navigate to the directory containing all the "Dungeons, Dungeons, and More Dungeons" files in the command prompt, terminal, or console
-4) Run the `DDandD_Runner' program by entering `java DDandD_Runner' into the command prompt, terminal, or console
+4) Run the `DDandD_Runner` program by entering `java DDandD_Runner` into the command prompt, terminal, or console
