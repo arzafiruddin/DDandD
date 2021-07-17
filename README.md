@@ -25,9 +25,9 @@ Your goal is to survive as long as you can by reaching the exit of each area so 
 
 ### Movement
 
-|     |  W  |     | . . . |                           |
-|:---:|:---:|:---:|:-----:|:-------------------------:|
-|**A**|**S**|**D**| . . . |&nbsp;&nbsp;&nbsp;**Enter**|
+|     |  W  |     | . . . |                                       |
+|:---:|:---:|:---:|:-----:|:-------------------------------------:|
+|**A**|**S**|**D**| . . . |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Enter**|
 
 In order to move around, use the [ W ], [ A ], [ S ], and [ D ] keys followed by the [ ENTER ] key.
 
