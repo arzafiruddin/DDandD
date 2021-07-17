@@ -25,7 +25,7 @@ Your goal is to survive as long as you can by reaching the exit of each area so 
 
 ### Movement
 
-|     |  W  |     |       |         |
+|     |  W  |     | . . . |         |
 |:---:|:---:|:---:|:-----:|:-------:|
 |**A**|**S**|**D**| . . . |**Enter**|
 
