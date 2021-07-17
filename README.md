@@ -59,7 +59,7 @@ There are 3 options during an enemy encounter:
 If the journey ahead is too daunting, click the [ Q ] key followed by the [ ENTER ] key on the map screen to quit.
 
 ## Additional Information
-### Downloading and Running
+### Downloading and Execution
 
 "Dungeons, Dungeons, and More Dungeons" can run on any environment or IDE with Java support in the command prompt, terminal, or console. Simply do the following:
 1) Download all the files (including all .java, .class, and .txt files) from the root of the *DDandD* GitHub repository (`readme_assets` folder is not necessary) 
@@ -73,6 +73,9 @@ If the journey ahead is too daunting, click the [ Q ] key followed by the [ ENTE
 ### Customizing Enemy and Weapon Varieties
 
 "Dungeons, Dungeons, and More Dungeons" supports the ability for the pool of possible weapons and enemies to be customized by the player. Simply open the `Enemies.txt` and `Weapons.txt` files and add as many new enemies and weapons you'd like, or completely overhaul the preset options. The only stipulation is that **every seperate enemy and weapons must be on their own, separate line** in the .txt files.
+
+### Dependencies
+- *None*
 
 ### Known Bugs
 - On occasion, skills obtained in a previous level will not transfer over to the next level
