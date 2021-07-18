@@ -4,7 +4,7 @@
 
 ---
 
-Version 0.4 - June 2019
+Version 0.4 - June 2019 Release
 
 ## Features
 - Unlimited unique procedurally-generated maps filled with enemies to kill, chests to discover, and skills to collect
